@@ -20,7 +20,7 @@
 
 ## Java环境
 
-**java1.8安装包会自动配置java环境，在终端(Terminal)中输入 java ，如果出现以下内容则说明java环境已经可以使用：**
+**java1.8安装包会自动配置java环境，在终端(Terminal)中输入 java ，如果出现以下内容则说明java环境可以使用：**
 
 ``` java
 用法: java [-options] class [args...]
