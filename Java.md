@@ -16,9 +16,11 @@
 
 ![](http://ww1.sinaimg.cn/large/005Xtdi2jw1f3v605p67hj30gl08gjtu.jpg)
 
-**文件下载完成后，双击文件，按照给出等提示一步一步的安装完成之后即可。**
+**文件下载完成后，双击文件，按照给出的提示一步一步的安装完成之后即可。**
 
-**java1.8安装包会自动配置java环境，在终端(Terminal)中输入java，如果出现以下内容则说明安装成功：**
+## Java环境
+
+**java1.8安装包会自动配置java环境，在终端(Terminal)中输入 java ，如果出现以下内容则说明java环境已经可以使用：**
 
 ``` java
 用法: java [-options] class [args...]
