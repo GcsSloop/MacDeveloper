@@ -7,6 +7,7 @@
 
 在Windows我是用一个叫Clover到工具解决到该问题，它能像Chrome浏览器一样用标签页浏览管理文件，非常方便，在Mac上有一个Finder增强插件XtraFinder同样可实现这一功能，安装插件后看起来是这样的：
 
+![](http://ww2.sinaimg.cn/large/005Xtdi2jw1f45k9y8qcxj30ph0gqq61.jpg)
 
 > 可以看到上面打开了两个标签页，并且在菜单中多出了剪切这一选项。
 
