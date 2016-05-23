@@ -21,9 +21,20 @@ Mac默认不显示以 "." 开头的文件。将文件或文件夹重命名为 .�
 ![](http://ww1.sinaimg.cn/large/005Xtdi2jw1f45f45xn4ej30fg0akaao.jpg)
 
 ### 隐藏该文件夹
-
 使用 mv 命令重命名.
+
+![](http://ww4.sinaimg.cn/large/005Xtdi2jw1f45fd94kkej30fg0ak3ze.jpg)
+
+![](http://ww3.sinaimg.cn/large/005Xtdi2jw1f45fe7nxq3j30fc093jrs.jpg)
 
 ### 找到隐藏的文件夹
 
+使用 la -a 命令显示隐藏文件
+
+![](http://ww4.sinaimg.cn/large/005Xtdi2jw1f45fg208m1j30fg0akjsl.jpg)
+
 ### 恢复到未隐藏状态
+
+![](http://ww4.sinaimg.cn/large/005Xtdi2jw1f45fgb1k7nj30fg0ak75m.jpg)
+
+![](http://ww2.sinaimg.cn/large/005Xtdi2jw1f45fgkrcatj30fc093jrv.jpg)
