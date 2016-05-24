@@ -5,7 +5,7 @@
 
 除此之外，Finder和Window的文件管理器存在同样一个问题：在需要开启多个窗口时，太多的窗口混叠在一起，很难有效到进行查找管理。
 
-在Windows我是用一个叫Clover到工具解决到该问题，它能像Chrome浏览器一样用标签页浏览管理文件，非常方便，在Mac上有一个Finder增强插件XtraFinder同样可实现这一功能，安装插件后看起来是这样的：
+在Windows我是用一个叫Clover的工具解决了该问题，它能像Chrome浏览器一样用标签页浏览管理文件，非常方便，在Mac上有一个Finder增强插件XtraFinder同样可实现这一功能，安装插件后看起来是这样的：
 
 ![](http://ww2.sinaimg.cn/large/005Xtdi2jw1f45k9y8qcxj30ph0gqq61.jpg)
 
