@@ -10,6 +10,7 @@
 * [支持ntfs移动硬盘读写](https://github.com/GcsSloop/MacDeveloper/blob/master/Support_Ntfs.md)
 * [隐藏文件](https://github.com/GcsSloop/MacDeveloper/blob/master/HideFile.md)
 * [文件管理器增强工具(包含Windows)](https://github.com/GcsSloop/MacDeveloper/blob/master/XtraFinder.md)
+* [添加adb到环境变量中](https://github.com/GcsSloop/MacDeveloper/blob/master/AddAdbInPath.md)
 * [auto_master文件](https://github.com/GcsSloop/MacDeveloper/blob/master/Auto_master.md)
 
 
