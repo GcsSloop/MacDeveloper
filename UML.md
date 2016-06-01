@@ -8,3 +8,16 @@
 
 ![](http://ww4.sinaimg.cn/large/005Xtdi2jw1f4g9pwjrrzj30rs0k20v1.jpg)
 
+## [官网下载](http://staruml.io/)
+
+StartUML 是一款收费软件，如果各位有钱的话，可以买一个许可，就当是赞助一下作者，体谅一下同行。
+
+实在是没钱的学生党，可以考虑破解一下，破解方法见下面；
+
+### 1.找到许可文件
+
+```
+安装目录/Contents/www/license/node/LicenseManagerDomain.js
+```
+>
+Mac 的可以在 Finder 中应用程序目录下找到 StartUml.app 右键-> 显示包内容即可看到内部文件。
