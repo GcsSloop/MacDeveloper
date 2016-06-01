@@ -21,3 +21,58 @@ StartUML 是一款收费软件，如果各位有钱的话，可以买一个许�
 ```
 >
 Mac 的可以在 Finder 中应用程序目录下找到 StartUml.app 右键-> 显示包内容即可看到内部文件。
+
+### 2.添加许可
+
+添加完成后，保存退出。
+
+```
+function validate(PK, name, product, licenseKey) {
+    var pk, decrypted;
+
+    // 添加的内容****************
+    return {
+        name: "GcsSloop",
+        product: "StarUML",
+        licenseType: "vip",
+        quantity: "mergades.com",
+        licenseKey: "mKey"
+    };
+    // **************************
+    
+    try {
+        pk = new NodeRSA(PK);
+        decrypted = pk.decrypt(licenseKey, 'utf8');
+    } catch (err) {
+        return false;
+    }
+    var terms = decrypted.trim().split("\n");
+    if (terms[0] === name && terms[1] === product) {
+        return { 
+            name: name, 
+            product: product, 
+            licenseType: terms[2],
+            quantity: terms[3],
+            licenseKey: licenseKey
+        };
+    } else {
+        return false;
+    }
+}
+```
+
+### 3.获取许可
+
+打开 StartUML
+
+Help -> Enter License
+
+分别输入:
+
+```
+Name    : GcsSloop
+License : mKey
+```
+
+点 OK 即可获取权限。
+
