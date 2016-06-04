@@ -4,15 +4,21 @@
 
 **Mac常用设置与使用技巧，如果你有什么比较好玩的东西欢迎在issues中告诉我。**
 
-* [安装Java](https://github.com/GcsSloop/MacDeveloper/blob/master/Java.md)
-* [安装AndroidStudio](https://github.com/GcsSloop/MacDeveloper/blob/master/AndroidStudio.md)
-* [获取Root权限](https://github.com/GcsSloop/MacDeveloper/blob/master/Root.md)
-* [支持ntfs移动硬盘读写](https://github.com/GcsSloop/MacDeveloper/blob/master/Support_Ntfs.md)
-* [隐藏文件](https://github.com/GcsSloop/MacDeveloper/blob/master/HideFile.md)
-* [文件管理器增强工具(包含Windows)](https://github.com/GcsSloop/MacDeveloper/blob/master/XtraFinder.md)
-* [UML绘制工具(全平台)](https://github.com/GcsSloop/MacDeveloper/blob/master/UML.md)
-* [添加adb到环境变量中](https://github.com/GcsSloop/MacDeveloper/blob/master/AddAdbInPath.md)
-* [auto_master文件](https://github.com/GcsSloop/MacDeveloper/blob/master/Auto_master.md)
+## 工具&插件
+
+* [安装Java](https://github.com/GcsSloop/MacDeveloper/blob/master/Tools/Java.md)
+* [安装AndroidStudio](https://github.com/GcsSloop/MacDeveloper/blob/master/Tools/AndroidStudio.md)
+* [文件管理增强插件(Win Mac)](https://github.com/GcsSloop/MacDeveloper/blob/master/Tools/XtraFinder.md)
+* [StarUML(全平台)](https://github.com/GcsSloop/MacDeveloper/blob/master/Tools/StarUML.md)
+
+
+## 设置&技巧
+
+* [获取Root权限](https://github.com/GcsSloop/MacDeveloper/blob/master/Skill/Root.md)
+* [支持ntfs移动硬盘读写](https://github.com/GcsSloop/MacDeveloper/blob/master/Skill/Support_Ntfs.md)
+* [隐藏文件](https://github.com/GcsSloop/MacDeveloper/blob/master/Skill/HideFile.md)
+* [添加adb到环境变量中](https://github.com/GcsSloop/MacDeveloper/blob/master/Skill/AddAdbInPath.md)
+* [auto_master](https://github.com/GcsSloop/MacDeveloper/blob/master/Skill/Auto_master.md)
 
 
 ## About Me
