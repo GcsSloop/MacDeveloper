@@ -15,6 +15,7 @@
 ## 设置&技巧
 
 * [获取Root权限](https://github.com/GcsSloop/MacDeveloper/blob/master/Skill/Root.md)
+* [配置环境变量](https://github.com/GcsSloop/MacDeveloper/blob/master/Skill/Path.md)
 * [支持ntfs移动硬盘读写](https://github.com/GcsSloop/MacDeveloper/blob/master/Skill/Support_Ntfs.md)
 * [隐藏文件](https://github.com/GcsSloop/MacDeveloper/blob/master/Skill/HideFile.md)
 * [添加adb到环境变量中](https://github.com/GcsSloop/MacDeveloper/blob/master/Skill/AddAdbInPath.md)
