@@ -19,6 +19,7 @@
 * [支持ntfs移动硬盘读写](https://github.com/GcsSloop/MacDeveloper/blob/master/Skill/Support_Ntfs.md)
 * [隐藏文件](https://github.com/GcsSloop/MacDeveloper/blob/master/Skill/HideFile.md)
 * [添加adb到环境变量中](https://github.com/GcsSloop/MacDeveloper/blob/master/Skill/AddAdbInPath.md)
+* [在任意位置运行Python脚本](https://github.com/GcsSloop/MacDeveloper/blob/master/Skill/RunPython.md)
 * [auto_master](https://github.com/GcsSloop/MacDeveloper/blob/master/Skill/Auto_master.md)
 
 
