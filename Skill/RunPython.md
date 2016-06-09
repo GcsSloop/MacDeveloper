@@ -19,6 +19,8 @@ python hello.py
 hello.py
 ```
 
+想要实现这种效果需要两步:
+
 #### 1.标示其是一个python程序，在hello.py的第一行添加如下内容:
 
 ```
