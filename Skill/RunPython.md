@@ -19,13 +19,13 @@ python hello.py
 hello.py
 ```
 
-想要这样做，我们需要标示其是一个python程序，在hello.py的第一行添加如下内容:
+#### 1.标示其是一个python程序，在hello.py的第一行添加如下内容:
 
 ```
 #!/usr/bin/env python
 ```
 
-添加完之后还需要添加可执行权限，使用 `chmod` 命令：
+#### 2.为其添加可执行权限，使用 `chmod` 命令：
 
 ```
 chmod +x hello.py
