@@ -36,5 +36,5 @@ chmod +x hello.py
 
 想要其在任意位置执行，只需要将python文件所在目录添加进系统环境变量即可
 
-OS X 系统环境变量设置可以参见 
+OS X 系统环境变量设置可以参见 **[Mac环境变量设置](https://github.com/GcsSloop/MacDeveloper/blob/master/Skill/Path.md)** 这篇文章。
 
