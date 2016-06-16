@@ -23,6 +23,9 @@
 * [在任意位置运行Python脚本](https://github.com/GcsSloop/MacDeveloper/blob/master/Skill/RunPython.md)
 * [auto_master](https://github.com/GcsSloop/MacDeveloper/blob/master/Skill/Auto_master.md)
 
+## 错误处理
+
+* [Python脚本: env: python\r: No such file or directory](https://github.com/GcsSloop/MacDeveloper/blob/master/Error/Python%E8%84%9A%E6%9C%AC:%20env:%20python%5Cr:%20No%20such%20file%20or%20directory.md)
 
 ## About Me
 
