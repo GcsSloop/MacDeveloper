@@ -38,7 +38,7 @@ TinyPNG支持一次最多上传20张图片，图片最大5M。
 
 ### 三.配置脚本并运行
 
-**[点击此处下载脚本(右键 -> 另存为)](https://raw.githubusercontent.com/GcsSloop/TinyPng/master/tinypng.py)**
+**[点击此处下载脚本(右键 -> 另存为)](https://github.com/GcsSloop/MacDeveloper/blob/master/PythonProject/TinyPng/tinypng.py)**
 
 下载完该脚本后，你需要简单编辑一下该脚本，将申请到到API key 填写进去。
 
