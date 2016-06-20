@@ -11,7 +11,7 @@
 
 出于以上原因，才有了这个编码转换脚本。
 
-## 目前已有功能
+## 已有功能
 
 功能         | 简介
 -------------|--------------------------------------------------------------------
@@ -41,6 +41,16 @@
 --------|---------|----------------------
 chardet | 编码识别 | pip install chardet
 click   | 参数解析 | pip install click
+
+## 使用示例
+
+该示例中分别执行了，转换单个文件，从备份文件恢复，清空备份文件，转换当前目录所有文件编码。
+
+![](http://ww1.sinaimg.cn/large/005Xtdi2jw1f51om9rti9j30rs0gzgpn.jpg)
+
+## 辅助优化
+
+[在任意位置执行该脚本文件](https://github.com/GcsSloop/MacDeveloper/blob/master/Skill/RunPython.md)
 
 ## License
 ```
