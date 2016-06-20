@@ -61,11 +61,11 @@ def convert_encoding(dir, target_encoding, bak):
 
 
 @click.command()
-@click.option('-f', "--file",    type=str,  default=None,  help="需要编码的单个文件")
+@click.option('-f', "--file",    type=str,  default=None,  help="需要转换编码的单个文件")
 @click.option('-d', "--dir",     type=str,  default=None,  help="需要转换编码的文件夹")
 @click.option('-b', "--bak",     type=bool, default=True,  help="是否生成备份文件")
-@click.option('-r', "--restore", type=bool, default=False, help="恢复备份文件")
-@click.option('-c', "--clear",   type=bool, default=False, help="删除备份文件")
+@click.option('-r', "--restore", type=bool, default=False, help="是否恢复备份文件")
+@click.option('-c', "--clear",   type=bool, default=False, help="是否删除备份文件")
 def run(file, dir, bak, restore, clear):
     print ("---------------------------------")
     print ("GcsSloop Gbk2Utf-8 V%s" %(version))
