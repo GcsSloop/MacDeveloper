@@ -18,8 +18,9 @@
 
 参数  | 全称    | 参数类型 | 默认值 | 摘要                | 示例
 -----|---------|-------- |------ |--------------------|------
-`-f` | file    | 文本文件 | None  | 需要转换编码的单个文件 |
-`-d` | dir     | 文件夹   | None  | 需要转换编码的文件夹  |
-`-b` | bak     | 布尔变量 | True  | 是否生成备份文件      |
-`-r` | restore | 布尔变量 | False | 是否恢复备份文件      |
-`-c` | clear   | 布尔变量 | False | 是否删除备份文件      |
+无参  |         |        |       | 转换当前目录下所有文件 | `gbk2utf-8.py`
+`-f` | file    | 文本文件 | None  | 需要转换编码的单个文件 | `gbk2utf-8.py -f /Users/GcsSloop/Demo.txt`
+`-d` | dir     | 文件夹   | None  | 需要转换编码的文件夹  | `gbk2utf-8.py -f /Users/GcsSloop/DemoDir`
+`-b` | bak     | 布尔变量 | True  | 是否生成备份文件      | `gbk2utf-8.py -b False`
+`-r` | restore | 布尔变量 | False | 是否恢复备份文件      | `gbk2utf-8.py -r True`
+`-c` | clear   | 布尔变量 | False | 是否删除备份文件      | `gbk2utf-8.py -c True`
