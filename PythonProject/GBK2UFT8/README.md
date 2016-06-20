@@ -42,6 +42,10 @@
 chardet | 编码识别 | pip install chardet
 click   | 参数解析 | pip install click
 
+## 下载脚本
+
+**[GBK2UTF-8(右键 -> 另存为)](https://github.com/GcsSloop/MacDeveloper/blob/master/PythonProject/GBK2UFT8/gbk2utf-8.py)**
+
 ## 使用示例
 
 该示例中分别执行了，转换单个文件，从备份文件恢复，清空备份文件，转换当前目录所有文件编码。
