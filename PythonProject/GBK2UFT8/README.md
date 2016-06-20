@@ -2,6 +2,11 @@
 [![License](https://img.shields.io/badge/license-Apache%202-green.svg)](https://www.apache.org/licenses/LICENSE-2.0)
 ![version](https://img.shields.io/badge/version-1.0.0-brightgreen.svg)
 
+
+### 作者微博: [@GcsSloop](http://weibo.com/GcsSloop)
+
+## 前言
+
 由于之前是在 windows 平台编程，早期都是使用windows的默认编码 GBK (后期编码都换成了UTF-8)，但在 Mac 平台打开的时候不支持，显示乱码，而且在之前写的库和之后写的库混用的时候也会由于编码而出现一些莫名的问题。
 
 出于以上原因，才有了这个编码转换脚本。
