@@ -24,3 +24,13 @@
 `-b` | bak     | 布尔变量 | True  | 是否生成备份文件      | `gbk2utf-8.py -b False`
 `-r` | restore | 布尔变量 | False | 是否恢复备份文件      | `gbk2utf-8.py -r True`
 `-c` | clear   | 布尔变量 | False | 是否删除备份文件      | `gbk2utf-8.py -c True`
+
+
+## 配置环境
+
+想要使用该脚本必须保证python环境中一景存在以下几个模块
+
+模块名称 | 摘要     | 导入方式
+--------|---------|----------------------
+chardet | 编码识别 | pip install chardet
+click   | 参数解析 | pip install click
