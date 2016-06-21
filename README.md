@@ -23,6 +23,11 @@
 * [在任意位置运行Python脚本](https://github.com/GcsSloop/MacDeveloper/blob/master/Skill/RunPython.md)
 * [auto_master](https://github.com/GcsSloop/MacDeveloper/blob/master/Skill/Auto_master.md)
 
+## Python工具
+
+* [编码转换工具(GBK2UTF-8)](https://github.com/GcsSloop/MacDeveloper/blob/master/PythonProject/GBK2UFT8/gbk2utf-8.py)
+* [图片压缩工具(TinyPng)](https://github.com/GcsSloop/MacDeveloper/blob/master/PythonProject/TinyPng/README.md)
+
 ## 错误处理
 
 * [Python脚本: env: python\r: No such file or directory](https://github.com/GcsSloop/MacDeveloper/blob/master/Error/Python%E8%84%9A%E6%9C%AC:%20env:%20python%5Cr:%20No%20such%20file%20or%20directory.md)
