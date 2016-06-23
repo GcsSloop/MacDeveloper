@@ -1,6 +1,4 @@
 # Python工具
-[![License](https://img.shields.io/badge/license-Apache%202-green.svg)](https://www.apache.org/licenses/LICENSE-2.0)
-
 
 * [编码转换工具(GBK2UTF-8)](https://github.com/GcsSloop/MacDeveloper/blob/master/PythonProject/GBK2UFT8/README.md)
 * [图片压缩工具(TinyPng)](https://github.com/GcsSloop/MacDeveloper/blob/master/PythonProject/TinyPng/README.md)
