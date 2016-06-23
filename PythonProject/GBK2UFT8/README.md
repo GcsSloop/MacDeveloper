@@ -21,6 +21,15 @@
 **批量恢复** | 可以批量根据备份文件恢复到之前的内容。
 **参数支持** | 支持参数，更佳方便，参数详解见下文中详解
 
+## 配置环境
+
+想要使用该脚本必须保证python环境中一景存在以下几个模块
+
+模块名称 | 摘要     | 导入方式
+--------|---------|----------------------
+chardet | 编码识别 | pip install chardet
+click   | 参数解析 | pip install click
+
 ## 参数支持
 
 参数  | 全称    | 参数类型 | 默认值 | 摘要                | 示例
@@ -33,10 +42,10 @@
 `-c` | clear   | 布尔变量 | False | 是否删除备份文件      | `gbk2utf-8.py -c True`
 
 
-## 配置环境
+## 辅助优化
 
-想要使用该脚本必须保证python环境中一景存在以下几个模块
 
+<<<<<<< Updated upstream
 模块名称 | 摘要     | 导入方式
 --------|---------|----------------------
 chardet | 编码识别 | pip install chardet
@@ -72,3 +81,5 @@ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
 ```
+=======
+>>>>>>> Stashed changes
