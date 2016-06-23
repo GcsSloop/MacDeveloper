@@ -41,16 +41,6 @@ click   | 参数解析 | pip install click
 `-r` | restore | 布尔变量 | False | 是否恢复备份文件      | `gbk2utf-8.py -r True`
 `-c` | clear   | 布尔变量 | False | 是否删除备份文件      | `gbk2utf-8.py -c True`
 
-
-## 辅助优化
-
-
-<<<<<<< Updated upstream
-模块名称 | 摘要     | 导入方式
---------|---------|----------------------
-chardet | 编码识别 | pip install chardet
-click   | 参数解析 | pip install click
-
 ## 下载脚本
 
 **[GBK2UTF-8(右键 -> 另存为)](https://github.com/GcsSloop/MacDeveloper/blob/master/PythonProject/GBK2UFT8/gbk2utf-8.py)**
@@ -81,5 +71,4 @@ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
 ```
-=======
->>>>>>> Stashed changes
+
