@@ -8,7 +8,7 @@ Homebrew 直接翻译是 **家酿，自制** 的意思，一般指酿造 红酒 
 
 ## HomeBrew 与 HomeBrew Cask
 
-说到 HomeBrew 就不得不提到 HomeBraw 
+说到 HomeBrew 就不得不提到 HomeBraw Cask
 
 
 ## 如何安装
