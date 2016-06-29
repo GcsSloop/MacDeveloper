@@ -8,7 +8,12 @@ Homebrew 直接翻译是 **家酿，自制** 的意思，一般指酿造 红酒 
 
 ## HomeBrew 与 HomeBrew Cask
 
-说到 HomeBrew 就不得不提到 HomeBraw Cask， 看两者名字就知道它们必然是有关联的， 两者都是软件包管理程序， 帮助你方便的管理电脑中的软件。
+说到 HomeBrew 就不得不提到 HomeBraw Cask， 看两者名字就知道它们必然是有关联的， 两者都是软件包管理程序， 不同的是 HomeBraw Cask 多了一个 Cask(木桶), 也就是说 HomeBraw Cask 管理的是已经包装好的酒， 而 HomeBraw 管理的是原液，没有包装过的，如下:
+
+工具 | 摘要
+---|---
+HomeBraw | 会下载源码解压自动编译，并包含相关的依赖库，配置好环境变量，常用于安装配置开发环境，如 Python ffmpeg 等
+HomeBraw Cask | 下载已经编译好的应用包，然后解压并放置到统一到文件夹中，省去自己 下载 解压 安装 的麻烦
 
 
 ## 如何安装
