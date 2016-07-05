@@ -34,6 +34,13 @@ Mac     | smb ftp sftp  | sftp     | Mac上的smb协议有问题，安卓手机�
 Android | ftp           | ftp      | 手机并不适合长时间开启共享服务，一般用于临时共享，使用的是es文件管理器提供的ftp
 
 
+## 具体步骤
+
+### 1.Window开启服务
+
+### 2.Mac开启服务
+
+### 3.手机开启临时服务
 
 
 
