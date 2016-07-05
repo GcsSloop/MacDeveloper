@@ -8,4 +8,8 @@
 
 ## 所需工具
 
+由于PS(MAC版)的所有资源被封装成了一个后缀名为 .rsrc 的单个文件，但是这个文件的解析工具太难找了，找了半天才找到这样一个工具:
+
+### [ResKnife](https://github.com/slobo/ResKnife)
+
 ## 替换方法
