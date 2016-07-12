@@ -22,8 +22,10 @@
 
 ### 1.找到资源文件
 
-资源文件位置在 `/Applications/Adobe Photoshop CS6/Adobe Photoshop CS6.app/Contents/Resources`
+资源文件路径(具体应该取决与你的安装位置)： `/Applications/Adobe Photoshop CS6/Adobe Photoshop CS6.app/Contents/Resources`
 
-在Finder的应用程序目录下找到Adobe Photoshop CS6.app, 右键 -> 显示包内容 即可看到里面的内容，在`/Contents/Resources`目录能找到一个名为 `Adobe Photoshop CS6.rsrc` 的资源文件。
+在Finder的 `应用程序` 目录下找到 `Adobe Photoshop CS6.app`, **右键 -> 显示包内容** 即可看到里面的内容，在 `/Contents/Resources` 目录下一个名为 `Adobe Photoshop CS6.rsrc` 的资源文件就是我们需要的文件。
+
+**PS: 建议先备份一下资源文件，再进行修改，以便出错时可以替换会原文件。**
 
 
