@@ -20,5 +20,10 @@
 
 替换方法非常简单，大致如下：
 
+### 1.找到资源文件
+
+资源文件位置在 `/Applications/Adobe Photoshop CS6/Adobe Photoshop CS6.app/Contents/Resources`
+
+在Finder的应用程序目录下找到Adobe Photoshop CS6.app, 右键 -> 显示包内容 即可看到里面的内容，在`/Contents/Resources`目录能找到一个名为 `Adobe Photoshop CS6.rsrc` 的资源文件。
 
 
