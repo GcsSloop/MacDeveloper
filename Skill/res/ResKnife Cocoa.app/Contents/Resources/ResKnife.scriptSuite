@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist SYSTEM "file://localhost/System/Library/DTDs/PropertyList.dtd">
+<plist version="0.9">
+<dict>
+	<key>Name</key>
+	<string>ResKnife</string>
+	<key>AppleEventCode</key>
+	<string>ScDA</string>
+	<key>Classes</key>
+	<dict>
+		<key>ResourceDocument</key>
+		<dict>
+			<key>AppleEventCode</key>
+			<string>docu</string>
+			<key>Superclass</key>
+			<string>NSCoreSuite.NSDocument</string>
+			<key>ToOneRelationships</key>
+			<dict>
+			</dict>
+		</dict>
+		<key>NSApplication</key>
+		<dict>
+			<key>AppleEventCode</key>
+			<string>capp</string>
+			<key>Superclass</key>
+			<string>NSCoreSuite.NSApplication</string>
+			<key>ToManyRelationships</key>
+			<dict>
+				<key>orderedDocuments</key>
+				<dict>
+					<key>AppleEventCode</key>
+					<string>docu</string>
+					<key>Type</key>
+					<string>ResourceDocument</string>
+				</dict>
+			</dict>
+		</dict>
+	</dict>
+</dict>>
+</plist>
+
+
+

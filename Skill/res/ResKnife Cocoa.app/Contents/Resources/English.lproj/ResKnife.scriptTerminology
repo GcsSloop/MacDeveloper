@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist SYSTEM "file://localhost/System/Library/DTDs/PropertyList.dtd">
+<plist version="0.9">
+<dict>
+	<key>Name</key>
+	<string>Resource editor suite</string>
+	<key>Description</key>
+	<string>Standard classes supported by modern resource editors.</string>
+	<key>Classes</key>
+	<dict>
+		<key>NSApplication</key>
+		<dict>
+			<key>Name</key>
+			<string>application</string>
+			<key>PluralName</key>
+			<string>applications</string>
+			<key>Description</key>
+			<string>ResKnife itself.</string>
+		</dict>
+		<key>ResourceDocument</key>
+		<dict>
+			<key>Name</key>
+			<string>document</string>
+			<key>PluralName</key>
+			<string>documents</string>
+			<key>Description</key>
+			<string>A resource file, either data fork- or resource fork-based.</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
