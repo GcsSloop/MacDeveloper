@@ -12,7 +12,7 @@
 
 ### 开源项目地址: [ResKnife](https://github.com/slobo/ResKnife)
 
-### 直接下载地址: [原版](https://github.com/downloads/slobo/ResKnife/ResKnife%20Cocoa.zip) | [个人修改版]()
+### 直接下载地址: [原版](https://github.com/downloads/slobo/ResKnife/ResKnife%20Cocoa.zip) | [个人修改版](https://raw.githubusercontent.com/GcsSloop/MacDeveloper/master/Skill/res/ResKnife%20Cocoa.app.zip)
 
 > PS：由于原版图标实在是太丑了，本人就简单的替换了应用图标和资源文件图标，做了一个个人修改版。
 
