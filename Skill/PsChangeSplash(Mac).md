@@ -24,11 +24,13 @@
 
 资源文件路径(具体应该取决与你的安装位置)： `/Applications/Adobe Photoshop CS6/Adobe Photoshop CS6.app/Contents/Resources`
 
-在Finder的 `应用程序` 目录下找到 `Adobe Photoshop CS6.app`, **右键 -> 显示包内容** 即可看到里面的内容，在 `/Contents/Resources` 目录下一个名为 `Adobe Photoshop CS6.rsrc` 的资源文件就是我们需要的文件。
+在Finder的 `应用程序` 目录下找到 `Adobe Photoshop CS6.app`, **右键 -> 显示包内容** 即可看到里面的内容，在 `/Contents/Resources` 目录下一个名为 `Adobe Photoshop CS6.rsrc` 的资源文件就是我们需要的文件(这个图标是我替换的，在其他电脑上显示可能不同，认准名称即可)。
+
+![](http://ww3.sinaimg.cn/large/005Xtdi2jw1f5sr0jx4qcj30qt0jd78x.jpg)
 
 **PS: 建议先备份一下资源文件，再进行修改，以便出错时可以替换会原文件。**
 
 ### 2.打开文件找到需要替换的目标
 
-
+ 使用 ResKnife 打开后可能会弹出多个窗口，从里面资源文件显示比较多的窗口找到一个名为 SplashExtendedBackground.png 的文件，这个就是我们需要的文件。
 
