@@ -52,7 +52,7 @@
 
 ## 5.替换
 
-找到编辑完成的 .png 文件，并将后缀名改为 .rsrc ，同样使用 ResKnife打开，双击Data Fork这一项目，同样弹出一个十六进制窗口，将里面的东西全部复制粘贴到上一步删除了内容的窗口中，之后保存退出即可。
+找到编辑完成的 .png 文件，并将后缀名改为 .rsrc ，同样使用 ResKnife打开，双击 Data Fork 这一项目，同样弹出一个十六进制窗口，将里面的东西全部复制粘贴到上一步删除了内容的窗口中，之后保存退出即可。
 
 
 ## 修改好的资源文件
@@ -62,4 +62,8 @@
 ![](https://raw.githubusercontent.com/GcsSloop/MacDeveloper/res/Skill/res/PsChangeSplash(Mac)/SplashExtendedBackground.png)
 
 ### [替换完成的资源文件(下载)](https://raw.githubusercontent.com/GcsSloop/MacDeveloper/res/Skill/res/PsChangeSplash(Mac)/Adobe%20Photoshop%20CS6.rsrc)
+
+## 注意事项
+
+请不要手动为你的 rsrc 文件替换图标，否则原先可直接编辑的内容会整个变成 Data Fork 一个文件，我是利用替换 ResKnife 中的资源文件来实现更改图标的。
 
