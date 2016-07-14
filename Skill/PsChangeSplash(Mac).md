@@ -6,6 +6,11 @@
 
 ![](https://raw.githubusercontent.com/GcsSloop/MacDeveloper/res/Skill/res/PsChangeSplash(Mac)/01.png)
 
+## 注意事项
+
+**请不要手动为你的 rsrc 文件替换图标，否则原先可直接编辑的内容会整个变成 Data Fork 一个文件，我是利用替换 ResKnife 中的资源文件来实现更改图标的，请谨记。**
+
+
 ## 所需工具
 
 由于PS(MAC版)的所有资源被封装成了一个后缀名为 .rsrc 的单个文件，但是这个文件的解析工具太难找了，很多都不能用，找了好久才找到这样一个历史悠久但不太著名的工具:
@@ -63,7 +68,4 @@
 
 ### [替换完成的资源文件(下载)](https://raw.githubusercontent.com/GcsSloop/MacDeveloper/res/Skill/res/PsChangeSplash(Mac)/Adobe%20Photoshop%20CS6.rsrc)
 
-## 注意事项
-
-请不要手动为你的 rsrc 文件替换图标，否则原先可直接编辑的内容会整个变成 Data Fork 一个文件，我是利用替换 ResKnife 中的资源文件来实现更改图标的。
 
