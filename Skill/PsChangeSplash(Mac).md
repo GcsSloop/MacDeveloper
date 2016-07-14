@@ -32,5 +32,9 @@
 
 ### 2.打开文件找到需要替换的目标
 
- 使用 ResKnife 打开后可能会弹出多个窗口，从里面资源文件显示比较多的窗口找到一个名为 SplashExtendedBackground.png 的文件，这个就是我们需要的文件。
+使用 ResKnife 打开 Adobe Photoshop CS6.rsrc 后可能会弹出多个窗口，从里面资源文件显示比较多的窗口找到一个名为 SplashExtendedBackground.png 的文件，这个就是我们需要的文件。
+
+![](http://ww3.sinaimg.cn/large/005Xtdi2jw1f5tj4xi3kjj30f00dawj2.jpg)
+
+
 
