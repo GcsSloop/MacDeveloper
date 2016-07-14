@@ -22,6 +22,7 @@
 * [脚本类型标注](https://github.com/GcsSloop/MacDeveloper/blob/master/Skill/Script.md)
 * [在任意位置运行Python脚本](https://github.com/GcsSloop/MacDeveloper/blob/master/Skill/RunPython.md)
 * [auto_master](https://github.com/GcsSloop/MacDeveloper/blob/master/Skill/Auto_master.md)
+* [Mac更改Photoshop(PS)启动界面](https://github.com/GcsSloop/MacDeveloper/blob/master/Skill/PsChangeSplash(Mac).md)
 
 ## Python工具
 
