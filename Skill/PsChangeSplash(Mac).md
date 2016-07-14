@@ -4,7 +4,7 @@
 
 先上效果图(图是我自己做的):
 
-![](http://ww1.sinaimg.cn/large/005Xtdi2jw1f5qdmfgj1rj31400p07f2.jpg)
+![](https://raw.githubusercontent.com/GcsSloop/MacDeveloper/res/Skill/res/PsChangeSplash(Mac)/01.png)
 
 ## 所需工具
 
@@ -12,7 +12,7 @@
 
 ### 开源项目地址: [ResKnife](https://github.com/slobo/ResKnife)
 
-### 直接下载地址: [原版](https://github.com/downloads/slobo/ResKnife/ResKnife%20Cocoa.zip) | [个人修改版](https://raw.githubusercontent.com/GcsSloop/MacDeveloper/res/Skill/res/ResKnife%20Cocoa.app.zip)
+### 直接下载地址: [原版](https://github.com/downloads/slobo/ResKnife/ResKnife%20Cocoa.zip) | [个人修改版](https://raw.githubusercontent.com/GcsSloop/MacDeveloper/res/Skill/res/PsChangeSplash(Mac)/ResKnife%20Cocoa.app.zip)
 
 > PS：由于原版图标实在是太丑了，本人就简单的替换了应用图标和资源文件图标，做了一个个人修改版。
 
@@ -26,7 +26,7 @@
 
 在Finder的 `应用程序` 目录下找到 `Adobe Photoshop CS6.app`, **右键 -> 显示包内容** 即可看到里面的内容，在 `/Contents/Resources` 目录下一个名为 `Adobe Photoshop CS6.rsrc` 的资源文件就是我们需要的文件(这个图标是我替换的，在其他电脑上显示可能不同，认准名称即可)。
 
-![](http://ww3.sinaimg.cn/large/005Xtdi2jw1f5sr0jx4qcj30qt0jd78x.jpg)
+![](https://raw.githubusercontent.com/GcsSloop/MacDeveloper/res/Skill/res/PsChangeSplash(Mac)/02.png)
 
 **PS: 建议先备份一下资源文件，再进行修改，以便出错时可以替换回原文件。**
 
@@ -34,7 +34,7 @@
 
 使用 ResKnife 打开 Adobe Photoshop CS6.rsrc 后可能会弹出多个窗口，从里面资源文件显示比较多的窗口找到一个名为 SplashExtendedBackground.png 的文件，这个就是我们需要的文件。
 
-![](http://ww3.sinaimg.cn/large/005Xtdi2jw1f5tj4xi3kjj30f00dawj2.jpg)
+![](https://raw.githubusercontent.com/GcsSloop/MacDeveloper/res/Skill/res/PsChangeSplash(Mac)/03.png)
 
 ### 3.导出内容(可选)
 
@@ -46,7 +46,7 @@
 
 从该软件的菜单栏上可以看到两个编辑按钮，我们此处使用上图中标注的 Edit Hex 即可，由于该选项编辑的是十六进制内容，所以打开后是这样的:
 
-![](http://ww2.sinaimg.cn/large/005Xtdi2jw1f5tye4lh68j30fu09hq9f.jpg)
+![](https://raw.githubusercontent.com/GcsSloop/MacDeveloper/res/Skill/res/PsChangeSplash(Mac)/04.png)
 
 我们先将其中的内容全部删除，但不要关闭这个窗口。
 
@@ -59,7 +59,7 @@
 
 ### 我使用的原图：
 
-![](https://raw.githubusercontent.com/GcsSloop/MacDeveloper/res/Skill/res/SplashExtendedBackground.png)
+![](https://raw.githubusercontent.com/GcsSloop/MacDeveloper/res/Skill/res/PsChangeSplash(Mac)/SplashExtendedBackground.png)
 
-### [替换完成的资源文件(下载)](https://raw.githubusercontent.com/GcsSloop/MacDeveloper/res/Skill/res/Adobe%20Photoshop%20CS6.rsrc)
+### [替换完成的资源文件(下载)](https://raw.githubusercontent.com/GcsSloop/MacDeveloper/res/Skill/res/PsChangeSplash(Mac)/Adobe%20Photoshop%20CS6.rsrc)
 
