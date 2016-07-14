@@ -1,5 +1,7 @@
 # Mac更改Photoshop(PS)启动界面
 
+### 作者微博: [@GcsSloop](http://weibo.com/GcsSloop)
+
 作为一个应用的启动页，虽然并没有什么用处，但换一个好看一点的界面会让人的心情更加舒畅，更有工作学习的动力，之前的Windows上面替换比较容易，可惜换了Mac之后就找不到替换的方法了，基本找不到教程，不仅如此，甚至连相关的工具都鲜有人知，我也是扒了好几天论坛才找到的解决方案，为了方便其他有类似需求的小伙伴，特此做一个简单的替换教程。
 
 先上效果图(图是我自己做的):
@@ -68,4 +70,10 @@
 
 ### [替换完成的资源文件(下载)](https://raw.githubusercontent.com/GcsSloop/MacDeveloper/res/Skill/res/PsChangeSplash(Mac)/Adobe%20Photoshop%20CS6.rsrc)
 
+## About Me
 
+一枚理想在二次元的Android开发者。
+
+### 作者微博: [@GcsSloop](http://weibo.com/GcsSloop)
+
+<a href="https://github.com/GcsSloop/README/blob/master/README.md" target="_blank"> <img src="http://ww4.sinaimg.cn/large/005Xtdi2gw1f1qn89ihu3j315o0dwwjc.jpg" width=300 height=100 /> </a>
