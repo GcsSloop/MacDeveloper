@@ -12,7 +12,7 @@
 
 ### 开源项目地址: [ResKnife](https://github.com/slobo/ResKnife)
 
-### 直接下载地址: [原版](https://github.com/downloads/slobo/ResKnife/ResKnife%20Cocoa.zip) | [个人修改版](https://raw.githubusercontent.com/GcsSloop/MacDeveloper/master/Skill/res/ResKnife%20Cocoa.app.zip)
+### 直接下载地址: [原版](https://github.com/downloads/slobo/ResKnife/ResKnife%20Cocoa.zip) | [个人修改版](https://raw.githubusercontent.com/GcsSloop/MacDeveloper/res/Skill/res/ResKnife%20Cocoa.app.zip)
 
 > PS：由于原版图标实在是太丑了，本人就简单的替换了应用图标和资源文件图标，做了一个个人修改版。
 
@@ -55,6 +55,11 @@
 找到编辑完成的 .png 文件，并将后缀名改为 .rsrc ，同样使用 ResKnife打开，双击Data Fork这一项目，同样弹出一个十六进制窗口，将里面的东西全部复制粘贴到上一步删除了内容的窗口中，之后保存退出即可。
 
 
+## 修改好的资源文件
 
+### 我使用的原图：
 
+![](https://raw.githubusercontent.com/GcsSloop/MacDeveloper/res/Skill/res/SplashExtendedBackground.png)
+
+### [替换完成的资源文件(下载)](https://raw.githubusercontent.com/GcsSloop/MacDeveloper/res/Skill/res/Adobe%20Photoshop%20CS6.rsrc)
 
