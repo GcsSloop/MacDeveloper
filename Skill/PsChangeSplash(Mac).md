@@ -46,7 +46,7 @@
 
 从该软件的菜单栏上可以看到两个编辑按钮，我们此处使用上图中标注的 Edit Hex 即可，由于该选项编辑的是十六进制内容，所以打开后是这样的:
 
-![](http://ww2.sinaimg.cn/large/005Xtdi2jw1f5tyb3jm7kj30fu09hq9f.jpg)
+![](http://ww2.sinaimg.cn/large/005Xtdi2jw1f5tye4lh68j30fu09hq9f.jpg)
 
 我们先将其中的内容全部删除，但不要关闭这个窗口。
 
