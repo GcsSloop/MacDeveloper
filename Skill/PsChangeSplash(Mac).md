@@ -72,7 +72,7 @@
 
 ## About Me
 
-一枚理想在二次元的Android开发者。
+一枚理想在二次元的Android开发者 ˊ_>ˋ
 
 ### 作者微博: [@GcsSloop](http://weibo.com/GcsSloop)
 
