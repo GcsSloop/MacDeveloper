@@ -55,7 +55,7 @@
 
 ![](https://raw.githubusercontent.com/GcsSloop/MacDeveloper/res/Skill/res/PsChangeSplash(Mac)/04.png)
 
-我们先将其中的内容全部删除，但不要关闭这个窗口。
+**我们先将其中的内容全部删除，但不要关闭这个窗口。**
 
 ## 5.替换
 
