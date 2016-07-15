@@ -46,7 +46,9 @@ Homebrew Cask | 下载已经编译好的应用包，然后解压并放置到统�
 
 安装 Homebrew 可能需要 Xcode，不过不需要担心，如果没有的话，它会提示你进行安装。
 
-另外它支持的版本是 10.9 以上， 更多请参考 [**HomeBrew官网**](http://brew.sh/index_zh-cn.html)
+另外它支持的系统版本是 10.9 以上， 更多请参考 [**HomeBrew官网**](http://brew.sh/index_zh-cn.html)
+
+对于 10.5 ~ 10.8 的系统可以安装 [Tigerbrew](https://github.com/mistydemeo/tigerbrew)
 
 ### 2.安装Homebrew Cask
 
