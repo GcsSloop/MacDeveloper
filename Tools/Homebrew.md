@@ -115,6 +115,13 @@ brew cask cleanup                   | 清除旧版本缓存
 >
 **homebrew cask并没有提供更新软件的方法，更新软件只需要重新install一次就行了。**
 
+**PS: Homebrew 与 Homebrew Cask都支持批量安装软件，方式如下:**
+
+```
+brew install <软件1> <软件2> <软件3>
+brew cask install <软件1> <软件2> <软件3>
+```
+
 ## About Me
 
 一名生活在 2.5 次元的 Android 开发者。
