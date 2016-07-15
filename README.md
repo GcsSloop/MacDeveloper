@@ -10,6 +10,7 @@
 * [安装AndroidStudio](https://github.com/GcsSloop/MacDeveloper/blob/master/Tools/AndroidStudio.md)
 * [文件管理增强插件(Win Mac)](https://github.com/GcsSloop/MacDeveloper/blob/master/Tools/XtraFinder.md)
 * [StarUML(全平台)](https://github.com/GcsSloop/MacDeveloper/blob/master/Tools/StarUML.md)
+* [Homebrew & Homebrew Cask](https://github.com/GcsSloop/MacDeveloper/blob/master/Tools/Homebrew.md)
 
 
 ## 设置&技巧
