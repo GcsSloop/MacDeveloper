@@ -28,7 +28,10 @@ Homebrew      | 会下载源码解压自动编译，并包含相关的依赖库�
 Homebrew Cask | 下载已经编译好的应用包，然后解压并放置到统一到文件夹中，省去自己 下载 解压 安装 的麻烦，如 chrome、 github-desktop 等
 
 >
-#### 两者大致可以用是否带图形化界面来区分，但也不绝对。
+**两者大致可以用是否带图形化界面来区分，但也不绝对。**
+
+* [**Homebrew 官网**](http://brew.sh/index_zh-cn.html)
+* [**Homebrew Cask官网**](https://caskroom.github.io/)
 
 ## 优势
 
