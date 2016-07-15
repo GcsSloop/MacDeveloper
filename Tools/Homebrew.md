@@ -1,19 +1,20 @@
 # Homebrew
 
-HomeBrew 是一款开源的软件包管理工具，可以方便的安装、升级、备份、管理你的电脑软件，实在是软件管理好帮手。
+Homebrew 是一款开源的软件包管理工具，可以方便的安装、升级、备份、管理你的电脑软件，实在是软件管理好帮手。
 
 Homebrew 直接翻译是 **家酿，自制** 的意思，一般指酿造 红酒 白酒 等， 家酿的酒， 各家的口味都会不相同， 软件也是一样，每个人都有自己风格的配置， 自然也是各不相同的， homebrew 只提供酿造(安装) 的方法， 大家可以组合出各种各样风格的软件集， 这样一想的话， 名字还是挺贴切的。
 
+顺便穿插一件趣事，在2015年的时候，Homebrew
 
 
-## HomeBrew 与 HomeBrew Cask
+## Homebrew 与 Homebrew Cask
 
-说到 HomeBrew 就不得不提到 HomeBrew Cask， 看两者名字就知道它们必然是有关联的， 两者都是软件包管理程序， 不同的是 HomeBrew Cask 多了一个 Cask(木桶), 也就是说 HomeBrew Cask 管理的是已经包装好的酒， 而 HomeBrew 管理的是原液，没有包装过的，如下:
+说到 Homebrew 就不得不提到 Homebrew Cask， 看两者名字就知道它们必然是有关联的， 两者都是软件包管理程序， 不同的是 Homebrew Cask 多了一个 Cask(木桶), 也就是说 Homebrew Cask 管理的是已经包装好的酒， 而 Homebrew 管理的是原液，没有包装过的，如下:
 
 工具          | 摘要
 --------------|----------------------
-HomeBrew      | 会下载源码解压自动编译，并包含相关的依赖库，配置好环境变量，常用于安装配置开发环境，如 python ffmpeg 等
-HomeBrew Cask | 下载已经编译好的应用包，然后解压并放置到统一到文件夹中，省去自己 下载 解压 安装 的麻烦，如 chrome github-desktop 等
+HomeBrew      | 会下载源码解压自动编译，并包含相关的依赖库，配置好环境变量，常用于安装配置开发环境，如 python、 ffmpeg 等
+HomeBrew Cask | 下载已经编译好的应用包，然后解压并放置到统一到文件夹中，省去自己 下载 解压 安装 的麻烦，如 chrome、 github-desktop 等
 
 >
 #### 两者大致可以用是否带图形化界面来区分，但也不绝对。
@@ -82,7 +83,7 @@ brew update          | 更新homebrew自身
 brew outdated        | 检查是否有软件包需要更新
 brew cleanup         | 清除旧版本缓存
 
-### 1.HomeBrewCask
+### 2.HomeBrewCask
 
 homebrewcask的命令与homebrew基本是一样的,以github官方客户端(github-desktop)为例:
 
@@ -100,5 +101,6 @@ brew cask update                    | 更新homebrew cask自身
 brew cask outdated                  | 检查是否有软件包需要更新
 brew cask cleanup                   | 清除旧版本缓存
 
-很不幸的是homebrew cask并没有提供更新的方法，更新软件只需要重新install一次就行了。
+>
+**homebrew cask并没有提供更新软件的方法，更新软件只需要重新install一次就行了。**
 
