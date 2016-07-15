@@ -62,7 +62,7 @@ Homebrew Cask | 下载已经编译好的应用包，然后解压并放置到统�
 如果你已经安装好了Homebrew，打开终端，输入：
 
 ```
-brew tap phinze/homebrew-cask
+brew tap caskroom/cask
 brew install brew-cask
 ```
 
