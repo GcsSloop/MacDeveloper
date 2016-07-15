@@ -1,5 +1,8 @@
 # Homebrew
 
+### 作者微博: [@GcsSloop](http://weibo.com/GcsSloop)
+
+
 Homebrew 是一款开源的软件包管理工具，可以方便的安装、升级、备份、管理你的电脑软件，实在是软件管理好帮手。
 
 Homebrew 直接翻译是 **家酿，自制** 的意思，一般指酿造 红酒 白酒 等， 家酿的酒， 各家的口味都会不相同， 软件也是一样，每个人都有自己风格的配置， 自然也是各不相同的， homebrew 只提供酿造(安装) 的方法， 大家可以组合出各种各样风格的软件集， 这样一想的话， 名字还是挺贴切的。
@@ -109,3 +112,10 @@ brew cask cleanup                   | 清除旧版本缓存
 >
 **homebrew cask并没有提供更新软件的方法，更新软件只需要重新install一次就行了。**
 
+## About Me
+
+一名生活在 2.5 次元的 Android 开发者。
+
+### 作者微博: [@GcsSloop](http://weibo.com/GcsSloop)
+
+<a href="https://github.com/GcsSloop/README/blob/master/README.md" target="_blank"> <img src="http://ww4.sinaimg.cn/large/005Xtdi2gw1f1qn89ihu3j315o0dwwjc.jpg" width=300 height=100 /> </a>
