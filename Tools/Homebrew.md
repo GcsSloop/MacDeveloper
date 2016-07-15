@@ -12,7 +12,7 @@ Homebrew 直接翻译是 **家酿，自制** 的意思，一般指酿造 红酒 
 
 
 顺便穿插一件趣事，在2015年的时候，Homebrew作者Max Howell应聘Google职位时，因为没有在白板上写出翻转二叉树而被拒，在Twitter吐槽: 
->>
+>
 Google: 90% of our engineers use the software you wrote (Homebrew), but you can't invert a binary tree on a whiteboard so f*** off.
 （Google：我们90%的工程师都在用你的软件（Homebrew），但是你不会在白板上翻转二叉树所以滚出去）
 
