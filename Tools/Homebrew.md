@@ -83,7 +83,7 @@ brew uninstall wget  | 卸载wget
 brew info wget       | 显示wget相关信息
 brew deps wget       | 显示wget这个工具所依赖的其他库
 brew upgrade wget    | 更新wget(更新时旧版本的安装包依旧会保存在你的电脑上)
-******************** | **************************************************** 
+                     | 
 brew home            | 打开homebrew官网
 brew list            | 列出所有已经安装的内容
 brew list --versions | 列出所有已经安装的内容，包括版本号
@@ -101,7 +101,7 @@ brew cask search git*               | 搜索名称包含git的软件(*表示通�
 brew cask install github-desktop    | 安装github-desktop
 brew cask uninstall github-desktop  | 卸载github-desktop
 brew cask info github-desktop       | 显示github-desktop相关信息
-*********************************** | **************************************************** 
+                                    | 
 brew cask home                      | 打开homebrew cask官网
 brew cask list                      | 列出所有已经安装的软件
 brew cask list --versions           | 列出所有已经安装的软件，包括版本号
