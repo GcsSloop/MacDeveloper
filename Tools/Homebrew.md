@@ -10,7 +10,7 @@ Homebrew 直接翻译是 **家酿，自制** 的意思，一般指酿造 红酒 
 
 工具          | 摘要
 --------------|----------------------
-HomeBrew      | 会下载源码解压自动编译，并包含相关的依赖库，配置好环境变量，常用于安装配置开发环境，如 Python ffmpeg 等
+HomeBrew      | 会下载源码解压自动编译，并包含相关的依赖库，配置好环境变量，常用于安装配置开发环境，如 python ffmpeg 等
 HomeBrew Cask | 下载已经编译好的应用包，然后解压并放置到统一到文件夹中，省去自己 下载 解压 安装 的麻烦，如 chrome github-desktop 等
 
 >
@@ -24,7 +24,20 @@ HomeBrew Cask | 下载已经编译好的应用包，然后解压并放置到统�
 
 ## 如何安装
 
-和使用起来一样，安装也并不是特别麻烦。
+### 1.安装HomeBrew
+
+打开终端，在上面粘贴以下内容，并回车:
+
+``` shell
+/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+```
+
+安装 HomeBrew 可能需要 Xcode，不过不需要担心，如果没有的话，它会提示你进行安装。
+
+另外它支持的版本是 10.5 以上， 更多请参考 [**HomeBrew官网**](http://brew.sh/index_zh-cn.html)
+
+
+### 2.安装HomeBrew Cask
 
 ## 如何使用
 
