@@ -68,7 +68,7 @@
 
 ![](https://raw.githubusercontent.com/GcsSloop/MacDeveloper/res/Skill/res/PsChangeSplash(Mac)/SplashExtendedBackground.png)
 
-### [替换完成的资源文件(下载)](https://raw.githubusercontent.com/GcsSloop/MacDeveloper/res/Skill/res/PsChangeSplash(Mac)/Adobe%20Photoshop%20CS6.rsrc)
+### [替换完成的资源文件(适用于Photoshop CS6)](https://raw.githubusercontent.com/GcsSloop/MacDeveloper/res/Skill/res/PsChangeSplash(Mac)/Adobe%20Photoshop%20CS6.rsrc)
 
 ## About Me
 
