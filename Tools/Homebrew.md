@@ -100,4 +100,5 @@ brew cask update                    | 更新homebrew cask自身
 brew cask outdated                  | 检查是否有软件包需要更新
 brew cask cleanup                   | 清除旧版本缓存
 
+很不幸的是homebrew cask并没有提供更新的方法，更新软件只需要重新install一次就行了。
 
