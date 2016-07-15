@@ -2,17 +2,20 @@
 
 ### 作者微博: [@GcsSloop](http://weibo.com/GcsSloop)
 
+之前有一名叫做[littleMark](https://github.com/madongqiang2201)的小伙伴在Issues中建议我添加一些东西，不过那段时间比较忙，一直没有时间来处理这件事情，现在特地来处理一下这件事情，如果有其他的小伙伴有什么好的意见或者建议，欢迎在Issues中告诉我。
+
+## 简介
 
 Homebrew 是一款开源的软件包管理工具，可以方便的安装、升级、备份、管理你的电脑软件，实在是软件管理好帮手。
 
 Homebrew 直接翻译是 **家酿，自制** 的意思，一般指酿造 红酒 白酒 等， 家酿的酒， 各家的口味都会不相同， 软件也是一样，每个人都有自己风格的配置， 自然也是各不相同的， homebrew 只提供酿造(安装) 的方法， 大家可以组合出各种各样风格的软件集， 这样一想的话， 名字还是挺贴切的。
 
->
+
 顺便穿插一件趣事，在2015年的时候，Homebrew作者Max Howell应聘Google职位时，因为没有在白板上写出翻转二叉树而被拒，在Twitter吐槽: 
 >>
 Google: 90% of our engineers use the software you wrote (Homebrew), but you can't invert a binary tree on a whiteboard so f*** off.
 （Google：我们90%的工程师都在用你的软件（Homebrew），但是你不会在白板上翻转二叉树所以滚出去）
->
+
 这件事情在网上引发了关于招聘程序员面试时白板编程意义的讨论，想必很多程序员还有印象吧。
 
 ## Homebrew 与 Homebrew Cask
@@ -22,7 +25,7 @@ Google: 90% of our engineers use the software you wrote (Homebrew), but you can'
 工具          | 摘要
 --------------|----------------------
 Homebrew      | 会下载源码解压自动编译，并包含相关的依赖库，配置好环境变量，常用于安装配置开发环境，如 python、 ffmpeg 等
-Homebrew Cask | 下载已经编译好的应用包，然后解压并放置到统一到文件夹中，省去自己 下载 解压 安装 的麻烦，如 qq、 chrome、 github-desktop 等
+Homebrew Cask | 下载已经编译好的应用包，然后解压并放置到统一到文件夹中，省去自己 下载 解压 安装 的麻烦，如 chrome、 github-desktop 等
 
 >
 #### 两者大致可以用是否带图形化界面来区分，但也不绝对。
@@ -33,6 +36,7 @@ Homebrew Cask | 下载已经编译好的应用包，然后解压并放置到统�
 * 自动配置环境
 * 卸载比较干净
 * 可以一次安装或者卸载多个软件
+* 方便，方便，还是方便
 
 ## 如何安装
 
@@ -121,6 +125,10 @@ brew cask cleanup                   | 清除旧版本缓存
 brew install <软件1> <软件2> <软件3>
 brew cask install <软件1> <软件2> <软件3>
 ```
+
+## 结语
+
+**如果本文中有什么错误或者纰漏，欢迎指正。**
 
 ## About Me
 
