@@ -21,8 +21,8 @@ Google: 90% of our engineers use the software you wrote (Homebrew), but you can'
 
 工具          | 摘要
 --------------|----------------------
-HomeBrew      | 会下载源码解压自动编译，并包含相关的依赖库，配置好环境变量，常用于安装配置开发环境，如 python、 ffmpeg 等
-HomeBrew Cask | 下载已经编译好的应用包，然后解压并放置到统一到文件夹中，省去自己 下载 解压 安装 的麻烦，如 chrome、 github-desktop 等
+Homebrew      | 会下载源码解压自动编译，并包含相关的依赖库，配置好环境变量，常用于安装配置开发环境，如 python、 ffmpeg 等
+Homebrew Cask | 下载已经编译好的应用包，然后解压并放置到统一到文件夹中，省去自己 下载 解压 安装 的麻烦，如 qq、 chrome、 github-desktop 等
 
 >
 #### 两者大致可以用是否带图形化界面来区分，但也不绝对。
@@ -32,10 +32,11 @@ HomeBrew Cask | 下载已经编译好的应用包，然后解压并放置到统�
 * 安装升级方便
 * 自动配置环境
 * 卸载比较干净
+* 可以一次安装或者卸载多个软件
 
 ## 如何安装
 
-### 1.安装HomeBrew
+### 1.安装Homebrew
 
 打开终端，输入:
 
@@ -43,13 +44,13 @@ HomeBrew Cask | 下载已经编译好的应用包，然后解压并放置到统�
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 ```
 
-安装 HomeBrew 可能需要 Xcode，不过不需要担心，如果没有的话，它会提示你进行安装。
+安装 Homebrew 可能需要 Xcode，不过不需要担心，如果没有的话，它会提示你进行安装。
 
-另外它支持的版本是 10.5 以上， 更多请参考 [**HomeBrew官网**](http://brew.sh/index_zh-cn.html)
+另外它支持的版本是 10.9 以上， 更多请参考 [**HomeBrew官网**](http://brew.sh/index_zh-cn.html)
 
-### 2.安装HomeBrew Cask
+### 2.安装Homebrew Cask
 
-如果你已经安装好了HomeBrew，打开终端，输入：
+如果你已经安装好了Homebrew，打开终端，输入：
 
 ```
 brew tap phinze/homebrew-cask
@@ -91,7 +92,7 @@ brew update          | 更新homebrew自身
 brew outdated        | 检查是否有软件包需要更新
 brew cleanup         | 清除旧版本缓存
 
-### 2.HomeBrewCask
+### 2.Homebrew Cask
 
 homebrewcask的命令与homebrew基本是一样的,以github官方客户端(github-desktop)为例:
 
