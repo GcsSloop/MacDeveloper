@@ -4,12 +4,12 @@ Homebrew 是一款开源的软件包管理工具，可以方便的安装、升�
 
 Homebrew 直接翻译是 **家酿，自制** 的意思，一般指酿造 红酒 白酒 等， 家酿的酒， 各家的口味都会不相同， 软件也是一样，每个人都有自己风格的配置， 自然也是各不相同的， homebrew 只提供酿造(安装) 的方法， 大家可以组合出各种各样风格的软件集， 这样一想的话， 名字还是挺贴切的。
 
-顺便穿插一件趣事，在2015年的时候，Homebrew作者Max Howell应聘Google职位时，因为没有在白板上写出反转二叉树而被拒，在Twitter吐槽: 
-
 >
+顺便穿插一件趣事，在2015年的时候，Homebrew作者Max Howell应聘Google职位时，因为没有在白板上写出反转二叉树而被拒，在Twitter吐槽: 
+>>
 Google: 90% of our engineers use the software you wrote (Homebrew), but you can't invert a binary tree on a whiteboard so f*** off.
 （Google：我们90%的工程师都在用你的软件（Homebrew），但是你不会在白板上翻转二叉树所以滚出去）
-
+>
 这件事情在网上引发了关于招聘程序员面试时白板编程意义的讨论，想必很多程序员还有印象吧。
 
 ## Homebrew 与 Homebrew Cask
