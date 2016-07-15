@@ -68,16 +68,6 @@ brew install brew-cask
 
 就这样就安装完成啦。
 
-## 如何使用
-
-homebrew 与 homebrew cask 命令有很多类似之处，通常的格式如下：
-
-```
-brew <命令> <参数>
-brew cask <命令> <参数>
-```
-
-**PS: 其中某些命令是没有参数的。详情见下面常用命令。**
 
 ## 常用命令
 
