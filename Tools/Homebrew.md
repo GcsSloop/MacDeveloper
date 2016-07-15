@@ -38,17 +38,17 @@ Homebrew Cask | 下载已经编译好的应用包，然后解压并放置到统�
 
 ### 1.安装Homebrew
 
-打开终端，输入:
+#### 环境要求
+
+* 1.配备 英特尔(Intel) CPU 的MAC电脑。
+* 2.系统版本在 10.9 以上，10.5 ~ 10.8 的系统可以安装 [Tigerbrew](https://github.com/mistydemeo/tigerbrew)。
+* 3.有Command Line Tools for Xcode，使用 `xcode-select --install` 命令来安装，其实安装Xcode也可以。
+
+在具备了以上条件后，在终端内输入:
 
 ``` shell
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 ```
-
-安装 Homebrew 可能需要 Xcode，不过不需要担心，如果没有的话，它会提示你进行安装。
-
-另外它支持的系统版本是 10.9 以上， 更多请参考 [**HomeBrew官网**](http://brew.sh/index_zh-cn.html)
-
-对于 10.5 ~ 10.8 的系统可以安装 [Tigerbrew](https://github.com/mistydemeo/tigerbrew)
 
 ### 2.安装Homebrew Cask
 
