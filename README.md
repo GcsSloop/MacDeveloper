@@ -1,6 +1,5 @@
 ![](http://ww2.sinaimg.cn/large/005Xtdi2jw1f5waqfo7rnj30rs05kaah.jpg)
 
-### 作者微博: [@GcsSloop](http://weibo.com/GcsSloop)
 
 **Mac常用设置与使用技巧，如果你有什么比较好玩的东西欢迎在issues中告诉我。**
 
@@ -35,6 +34,8 @@
 * [Python脚本: env: python\r: No such file or directory](https://github.com/GcsSloop/MacDeveloper/blob/master/Error/Python%E8%84%9A%E6%9C%AC:%20env:%20python%5Cr:%20No%20such%20file%20or%20directory.md)
 
 ## About Me
+
+一名生活在 2.5 次元的魔法师。
 
 ### 作者微博: [@GcsSloop](http://weibo.com/GcsSloop)
 
