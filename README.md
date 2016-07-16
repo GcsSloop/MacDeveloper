@@ -1,4 +1,4 @@
-# <img src="http://ww2.sinaimg.cn/large/005Xtdi2jw1f47npwm752j3074074t8w.jpg" width=32 /> MacDeveloper
+![](http://ww2.sinaimg.cn/large/005Xtdi2jw1f5waqfo7rnj30rs05kaah.jpg)
 
 ### 作者微博: [@GcsSloop](http://weibo.com/GcsSloop)
 
