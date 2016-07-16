@@ -126,7 +126,7 @@ brew cask install <软件1> <软件2> <软件3>
 
 ## About Me
 
-一名生活在 2.5 次元的 Android 开发者。
+一名生活在 2.5 次元的魔法师。
 
 ### 作者微博: [@GcsSloop](http://weibo.com/GcsSloop)
 
