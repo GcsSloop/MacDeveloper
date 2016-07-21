@@ -3,6 +3,10 @@
 
 **Mac常用设置与使用技巧，如果你有什么比较好玩的东西欢迎在issues中告诉我。**
 
+## 开源软件
+
+* [Marp - 用Markdown写PPT](https://github.com/yhatt/marp)
+
 ## 工具&插件
 
 * [安装Java](https://github.com/GcsSloop/MacDeveloper/blob/master/Tools/Java.md)
