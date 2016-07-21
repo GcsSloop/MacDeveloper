@@ -3,9 +3,10 @@
 
 **Mac常用设置与使用技巧，如果你有什么比较好玩的东西欢迎在issues中告诉我。**
 
-## 开源软件
+## 开源软件(仓库)
 
 * [Marp - 用Markdown写PPT](https://github.com/yhatt/marp)
+* [Awesome Mac - 收集非常好用的Mac应用程序、软件以及工具](https://github.com/jaywcjlove/awesome-mac)
 
 ## 工具&插件
 
