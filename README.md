@@ -5,11 +5,9 @@
 ## 目录
 
 - [推荐](#推荐)
-- [工具&插件](#工具&插件)
-- [设置&技巧](#设置&技巧)
-- [Python工具](#Python工具)
-- [错误处理](#错误处理)
-- [About Me](#About Me)
+- [工具](#工具)
+- [技巧](#技巧)
+- [错误日志](#错误日志)
 
 
 ## 推荐
@@ -17,17 +15,19 @@
 * [Awesome Mac - 收集非常好用的Mac应用程序、软件以及工具](https://github.com/jaywcjlove/awesome-mac)
 
 
-## 工具&插件
+## 工具
 
 * [安装Java](https://github.com/GcsSloop/MacDeveloper/blob/master/Tools/Java.md)
 * [安装AndroidStudio](https://github.com/GcsSloop/MacDeveloper/blob/master/Tools/AndroidStudio.md)
 * [文件管理增强插件(Win Mac)](https://github.com/GcsSloop/MacDeveloper/blob/master/Tools/XtraFinder.md)
 * [StarUML(全平台)](https://github.com/GcsSloop/MacDeveloper/blob/master/Tools/StarUML.md)
 * [Homebrew & Homebrew Cask](https://github.com/GcsSloop/MacDeveloper/blob/master/Tools/Homebrew.md)
+* [编码转换工具(GBK2UTF-8)](https://github.com/GcsSloop/MacDeveloper/blob/master/PythonProject/GBK2UFT8/README.md)
+* [图片压缩工具(TinyPng)](https://github.com/GcsSloop/MacDeveloper/blob/master/PythonProject/TinyPng/README.md)
 * [Marp - 用Markdown写PPT](https://github.com/yhatt/marp)
 
 
-## 设置&技巧
+## 技巧
 
 * [获取Root权限](https://github.com/GcsSloop/MacDeveloper/blob/master/Skill/Root.md)
 * [配置环境变量](https://github.com/GcsSloop/MacDeveloper/blob/master/Skill/Path.md)
@@ -39,12 +39,7 @@
 * [auto_master](https://github.com/GcsSloop/MacDeveloper/blob/master/Skill/Auto_master.md)
 * [Mac更改Photoshop(PS)启动界面](https://github.com/GcsSloop/MacDeveloper/blob/master/Skill/PsChangeSplash(Mac).md)
 
-## Python工具
-
-* [编码转换工具(GBK2UTF-8)](https://github.com/GcsSloop/MacDeveloper/blob/master/PythonProject/GBK2UFT8/README.md)
-* [图片压缩工具(TinyPng)](https://github.com/GcsSloop/MacDeveloper/blob/master/PythonProject/TinyPng/README.md)
-
-## 错误处理
+## 错误日志
 
 * [Python脚本: env: python\r: No such file or directory](https://github.com/GcsSloop/MacDeveloper/blob/master/Error/Python%E8%84%9A%E6%9C%AC:%20env:%20python%5Cr:%20No%20such%20file%20or%20directory.md)
 
