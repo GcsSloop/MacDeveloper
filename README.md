@@ -1,12 +1,20 @@
 ![](http://ww2.sinaimg.cn/large/005Xtdi2jw1f5waqfo7rnj30rs05kaah.jpg)
 
-
 **Mac常用设置与使用技巧，如果你有什么比较好玩的东西欢迎在issues中告诉我。**
 
 ## 目录
 
-- [工具&插件](#工具&插件)
 - [推荐](#推荐)
+- [工具&插件](#工具&插件)
+- [设置&技巧](#设置&技巧)
+- [Python工具](#Python工具)
+- [错误处理](#错误处理)
+- [About Me](#About Me)
+
+
+## 推荐
+
+* [Awesome Mac - 收集非常好用的Mac应用程序、软件以及工具](https://github.com/jaywcjlove/awesome-mac)
 
 
 ## 工具&插件
@@ -40,10 +48,6 @@
 
 * [Python脚本: env: python\r: No such file or directory](https://github.com/GcsSloop/MacDeveloper/blob/master/Error/Python%E8%84%9A%E6%9C%AC:%20env:%20python%5Cr:%20No%20such%20file%20or%20directory.md)
 
-## 推荐
-
-* [Awesome Mac - 收集非常好用的Mac应用程序、软件以及工具](https://github.com/jaywcjlove/awesome-mac)
-
 
 ## About Me
 
@@ -52,3 +56,5 @@
 ### 作者微博: [@GcsSloop](http://weibo.com/GcsSloop)
 
 <a href="https://github.com/GcsSloop/README/blob/master/README.md" target="_blank"> <img src="http://ww4.sinaimg.cn/large/005Xtdi2gw1f1qn89ihu3j315o0dwwjc.jpg" width=300 height=100 /> </a>
+
+[▲ 回到顶部](#目录)
