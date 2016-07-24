@@ -22,8 +22,8 @@
 * [文件管理增强插件(Win Mac)](https://github.com/GcsSloop/MacDeveloper/blob/master/Tools/XtraFinder.md)
 * [StarUML(全平台)](https://github.com/GcsSloop/MacDeveloper/blob/master/Tools/StarUML.md)
 * [Homebrew & Homebrew Cask](https://github.com/GcsSloop/MacDeveloper/blob/master/Tools/Homebrew.md)
-* [编码转换工具(GBK2UTF-8)](https://github.com/GcsSloop/MacDeveloper/blob/master/PythonProject/GBK2UFT8/README.md)
-* [图片压缩工具(TinyPng)](https://github.com/GcsSloop/MacDeveloper/blob/master/PythonProject/TinyPng/README.md)
+* [编码转换脚本(GBK2UTF-8)](https://github.com/GcsSloop/MacDeveloper/blob/master/PythonProject/GBK2UFT8/README.md)
+* [图片压缩脚本(TinyPng)](https://github.com/GcsSloop/MacDeveloper/blob/master/PythonProject/TinyPng/README.md)
 * [Marp - 用Markdown写PPT](https://github.com/yhatt/marp)
 
 
