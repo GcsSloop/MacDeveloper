@@ -3,10 +3,10 @@
 
 **Mac常用设置与使用技巧，如果你有什么比较好玩的东西欢迎在issues中告诉我。**
 
-## 开源软件(仓库)
+## 目录
 
-* [Marp - 用Markdown写PPT](https://github.com/yhatt/marp)
-* [Awesome Mac - 收集非常好用的Mac应用程序、软件以及工具](https://github.com/jaywcjlove/awesome-mac)
+- [工具&插件](#工具&插件)
+
 
 ## 工具&插件
 
@@ -15,6 +15,7 @@
 * [文件管理增强插件(Win Mac)](https://github.com/GcsSloop/MacDeveloper/blob/master/Tools/XtraFinder.md)
 * [StarUML(全平台)](https://github.com/GcsSloop/MacDeveloper/blob/master/Tools/StarUML.md)
 * [Homebrew & Homebrew Cask](https://github.com/GcsSloop/MacDeveloper/blob/master/Tools/Homebrew.md)
+* [Marp - 用Markdown写PPT](https://github.com/yhatt/marp)
 
 
 ## 设置&技巧
@@ -37,6 +38,11 @@
 ## 错误处理
 
 * [Python脚本: env: python\r: No such file or directory](https://github.com/GcsSloop/MacDeveloper/blob/master/Error/Python%E8%84%9A%E6%9C%AC:%20env:%20python%5Cr:%20No%20such%20file%20or%20directory.md)
+
+## 推荐
+
+* [Awesome Mac - 收集非常好用的Mac应用程序、软件以及工具](https://github.com/jaywcjlove/awesome-mac)
+
 
 ## About Me
 
