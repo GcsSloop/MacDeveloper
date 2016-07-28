@@ -18,7 +18,7 @@
     * [借助 Alfred 2 的 Workflows 功能可以做哪些好玩的事情？](https://www.zhihu.com/question/20656680) 
 * [iTerm2 - 强大而风骚的终端，你值得拥有](https://www.iterm2.com/)
     * [配置iTerm2](https://laoshuterry.gitbooks.io/mac_os_setup_guide/content/4_ZshConfig.html) 
-
+* [Marp - 用Markdown写PPT](https://github.com/yhatt/marp)
 
 ## 工具
 
@@ -29,8 +29,6 @@
 * [Homebrew & Homebrew Cask](https://github.com/GcsSloop/MacDeveloper/blob/master/Tools/Homebrew.md)
 * [编码转换脚本(GBK2UTF-8)](https://github.com/GcsSloop/MacDeveloper/blob/master/PythonProject/GBK2UFT8/README.md)
 * [图片压缩脚本(TinyPng)](https://github.com/GcsSloop/MacDeveloper/blob/master/PythonProject/TinyPng/README.md)
-* [Marp - 用Markdown写PPT](https://github.com/yhatt/marp)
-
 
 ## 技巧
 
