@@ -1,4 +1,4 @@
-# <img src="http://ww1.sinaimg.cn/large/005Xtdi2jw1f4v3ht2r2ij3074074jrl.jpg" width=32 /> TinyPng
+# <img src="http://ww1.sinaimg.cn/large/005Xtdi2jw1f4v3ht2r2ij3074074jrl.jpg" width="32" /> TinyPng
 [![License](https://img.shields.io/badge/license-Apache%202-green.svg)](https://www.apache.org/licenses/LICENSE-2.0)
 ![version](https://img.shields.io/badge/version-1.1.0-brightgreen.svg)
 
@@ -14,7 +14,7 @@
 TinyPNG官网: https://tinypng.com/
 
 >
-TinyPNG支持一次最多上传20张图片，图片最大5M。
+>TinyPNG支持一次最多上传20张图片，图片最大5M。
 
 如果处理的图片比较少则使用在线压缩即可，非常方便，但如果图片处理量比较大，使用在线压缩一次一次的上传下载则显得有些麻烦了，因此用Python写了一个简单的脚本，用于批量压缩图片。
 
@@ -34,7 +34,7 @@ TinyPNG支持一次最多上传20张图片，图片最大5M。
 到此处申请 API key: https://tinypng.com/developers
 
 >
-一个 key 每个月可以免费压缩500张图片，可以申请多个 key。
+>一个 key 每个月可以免费压缩500张图片，可以申请多个 key。
 
 ### 三.配置脚本并运行
 
@@ -64,12 +64,12 @@ python tinypng.py
 
 在 v1.0.1 版本中进行了参数支持，详情见下表:
 
-参数  | 参数类型 | 摘要                               | 示例
-:----:|----------|------------------------------------|-----------------------------
- 无参 |          | 压缩当前文件夹下所有图片文件       | `tinypng.py` 
-`－f` | 图像文件 | 压缩指定的单个文件                 | `tinypng.py -f /User/GcsSloop/demo.jpg`
-`－d` | 文件夹   | 压缩指定文件夹下所有图片文件       | `tinypng.py -d /User/GcsSloop/DemoDir`
- `-w` | 整型数字 | 压缩后图片的宽度，不指定则宽度不变 | `tinypng.py -w 300`
+|  参数  | 参数类型 | 摘要                | 示例                                      |
+| :--: | ---- | ----------------- | --------------------------------------- |
+|  无参  |      | 压缩当前文件夹下所有图片文件    | `tinypng.py`                            |
+| `－f` | 图像文件 | 压缩指定的单个文件         | `tinypng.py -f /User/GcsSloop/demo.jpg` |
+| `－d` | 文件夹  | 压缩指定文件夹下所有图片文件    | `tinypng.py -d /User/GcsSloop/DemoDir`  |
+| `-w` | 整型数字 | 压缩后图片的宽度，不指定则宽度不变 | `tinypng.py -w 300`                     |
 
 **参数优先级:**
 ```
