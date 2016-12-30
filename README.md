@@ -4,24 +4,20 @@
 
 ## 目录
 
-- [推荐](#推荐)
 - [工具](#工具)
 - [技巧](#技巧)
 - [错误日志](#错误日志)
 
+[Awesome Mac - 收集非常好用的Mac应用程序、软件以及工具](https://github.com/jaywcjlove/awesome-mac)
 
-## 推荐
+## 工具
 
-* [Awesome Mac - 收集非常好用的Mac应用程序、软件以及工具](https://github.com/jaywcjlove/awesome-mac)
 * [Dash - 吐血推荐，强大的离线API查看器，你能想到的，它都有。](https://kapeli.com/dash)
 * [Alfred - Mac上的效率神器，可以自定义workflow](https://www.alfredapp.com)
     * [借助 Alfred 2 的 Workflows 功能可以做哪些好玩的事情？](https://www.zhihu.com/question/20656680) 
 * [iTerm2 - 强大而风骚的终端，你值得拥有](https://www.iterm2.com/)
     * [配置iTerm2](https://laoshuterry.gitbooks.io/mac_os_setup_guide/content/4_ZshConfig.html) 
 * [Marp - 用Markdown写PPT](https://github.com/yhatt/marp)
-
-## 工具
-
 * [安装Java](https://github.com/GcsSloop/MacDeveloper/blob/master/Tools/Java.md)
 * [安装AndroidStudio](https://github.com/GcsSloop/MacDeveloper/blob/master/Tools/AndroidStudio.md)
 * [文件管理增强插件(Win Mac)](https://github.com/GcsSloop/MacDeveloper/blob/master/Tools/XtraFinder.md)
