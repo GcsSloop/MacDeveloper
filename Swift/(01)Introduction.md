@@ -1,7 +1,5 @@
 # Swift 简介
 
-# Swift 学习笔记
-
 Swift 是苹果公司设计的一个开源的开发语言。
 
 ## 1. 语法须知
@@ -427,3 +425,22 @@ for _ in 1...3 {
 }
 ```
 
+### 5.3 Switch 
+
+**特性：**
+
+- swicth 的变量不需要小括号
+- case 支持字符串等内容
+- case 结尾不需要 break
+- case 后面必须有一个可执行语句 
+
+```swift
+switch value {
+    case "A":
+        print("A")
+    case "B":
+        print("B")
+    default:
+        break
+}
+```
